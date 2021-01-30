@@ -1,4 +1,3 @@
 voila
-fastai
 urllib3
 fastbook
